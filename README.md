@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **roopikabits/roopikabits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Roopika
+- 👀 I’m interested in learning new tech
+- 🌱 I’m currently learning MTech - Software Engineering [BITS Pilani]
+- 📫 How to reach me 2020mt93705@wilp.bits-pilani.ac.in
+
+<!---
+roopikabits/roopikabits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
